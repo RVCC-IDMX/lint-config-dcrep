@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "Daniel Corritore <g00042736@stu.raritanval.edu> (https://github.com/dcrep)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.6",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
 }
